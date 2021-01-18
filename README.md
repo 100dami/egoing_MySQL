@@ -1,5 +1,5 @@
 # MySQL
-------
+
 ## SQL 이란?
 **S** TRUCTURED <br>
 **Q** UERY <br>
