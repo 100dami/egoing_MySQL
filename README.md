@@ -26,7 +26,7 @@ DESCRIPTION TEXT NULL,
 CREATED datetime not null, 
 AUTHOR VARCHAR(30) NULL, 
 PROFILE VARCHAR(100) NULL, 
-PRIMARY KEY(ID) // primary key : 기본키 
+PRIMARY KEY(ID) //   primary  key : 기본키 
 );
 ```
 * 테이블 보기 <br>
