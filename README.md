@@ -1,10 +1,16 @@
 # MySQL
 
-## SQL 이란?
+## SQL?
 **S** TRUCTURED  구조가 있는<br>
 **Q** UERY  (code나 key를 기초로 한) 질의<br>
 **L** ANGUAGE 언어<br>
 관계형 데이터베이스 관리 시스템의 데이터를 관리하기 위해 설계된 특수 목적의 프로그래밍 언어 <br><br>
+
+## CRUD?
+* CREATE
+* READ
+* UPDATE
+* DELETE <br><br>
 
 ## MySQL Syntax
 * 데이터 베이스 생성 <br>
